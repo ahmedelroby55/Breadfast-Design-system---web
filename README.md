@@ -31,9 +31,8 @@ Click **Add skill from URL** and paste the URL for the skill you want to install
 
 | Skill | Install URL |
 |---|---|
-| `breadfast-design` | `https://raw.githubusercontent.com/YOUR_USERNAME/breadfast-skills/main/breadfast-design/SKILL.md` |
+| `breadfast-design` | `https://raw.githubusercontent.com/ahmedelroby55/breadfast-skills/main/breadfast-design/SKILL.md` |
 
-> Replace `YOUR_USERNAME` with the actual GitHub username or org name where this repo is hosted. Ask the design lead if you're not sure.
 
 ### Step 4 — Confirm
 
